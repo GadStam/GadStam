@@ -10,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer currently pursuing a degree in Information systems engineering in National Technological University(UTN). Coding and Project management enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.</p>
+<p align="left">Full Stack Developer pursuing a degree in Information Systems Engineering at the National Technological University (UTN). Passionate about coding and project management, I'm looking for opportunities to apply my skills in a professional setting. My motto is to learn from every experience, continually grow as an individual, and always lend a helping hand to others.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning JAVA and AWS.
